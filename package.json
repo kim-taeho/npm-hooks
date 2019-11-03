@@ -1,0 +1,24 @@
+{
+  "name": "@nooks/use-title",
+  "version": "1.0.0",
+  "description": "HOOK",
+  "main": "index.js",
+  "author": "KIMTAEHO",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimtaeho0112/npm-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hook"
+  ],
+  "bugs": {
+    "url": "https://github.com/kimtaeho0112/npm-hooks/issues"
+  },
+  "homepage": "https://github.com/kimtaeho0112/npm-hooks#readme",
+  "peerDependencies": {
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
